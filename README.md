@@ -37,7 +37,6 @@ _Preparing content so that an LLM agent can use it: extraction to clean Markdown
 
 - **[foundation-models-experiments](https://github.com/anton-dergunov/foundation-models-experiments)**: Modern ML implemented from scratch in PyTorch: neural retrieval, transformers and ViT, image captioning, audio models and efficient fine-tuning, RLHF and preference optimisation.
 - **[hugging-face-deep-rl](https://github.com/anton-dergunov/hugging-face-deep-rl)**: Deep reinforcement learning notebooks with a shared library: a cleaned-up, modernised take on the hands-on units of the Hugging Face Deep RL course.
-- **distributed-ml-training**: Multi-GPU and distributed training with PyTorch. _(private for now)_
 
 ## Tools I built and use
 
