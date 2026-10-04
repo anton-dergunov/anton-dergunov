@@ -19,15 +19,14 @@ These are my own projects: research and ML first, then the tools I built and use
 
 - **[spoken-usage-retrieval](https://github.com/anton-dergunov/spoken-usage-retrieval)**: Retrieving and ranking authentic word and phrase usage from native speech.
 - **[task-concept-retrieval](https://github.com/anton-dergunov/task-concept-retrieval)**: Given a short task description, retrieve the most appropriate concept from a fixed vocabulary of 4,257 visual symbols: hybrid lexical-semantic retrieval, embedding models, reranking, calibration, and abstention.
-- **[interest-aligned-vocabulary-recommendation](https://github.com/anton-dergunov/interest-aligned-vocabulary-recommendation)**: Vocabulary recommendation for a single learner: what would this person want to learn next, answered from their own multilingual vocabulary, with no crowd to pool. _(planned)_
 
 ### Agents and context engineering
 
 _Preparing content so that an LLM agent can use it: extraction to clean Markdown, retrieval done ahead of the agent, and the token cost measured._
 
 - **[agentic-org-planner](https://github.com/anton-dergunov/agentic-org-planner)**: Org-mode planning system for Emacs with an LLM agent working on the plan: it adds, files and edits tasks in your own files, every change reviewed as a diff.
-- **agent-context-pipeline**: Capture from any device, extraction to clean Markdown (web pages, PDFs, OCR, speech), and retrieval of related notes, delivered as an inbox a coding agent can file. _(private for now)_
-- **agentic-paper-library**: Reading and organising a research-paper library with a coding agent: papers converted to Markdown the agent can read and cite, and skills for adding, reading and reviewing them. _(planned)_
+- **[agent-context-pipeline](https://github.com/anton-dergunov/agent-context-pipeline)**: Capture from any device, extraction to clean Markdown (web pages, PDFs, OCR, speech), and retrieval of related notes, delivered as an inbox a coding agent can file.
+- **[agentic-paper-library](https://github.com/anton-dergunov/agentic-paper-library)**: Reading and organising a research-paper library with a coding agent: papers converted to Markdown the agent can read and cite, and skills for adding, reading and reviewing them.
 
 ### Applied LLM and speech systems
 
