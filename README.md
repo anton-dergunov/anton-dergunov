@@ -43,6 +43,7 @@ _Preparing content so that an LLM agent can use it: extraction to clean Markdown
 
 - **[carrel](https://github.com/anton-dergunov/carrel)**: Read a paper on a tablet with Claude Code beside it: the PDF in one pane, a chat in the other, citations that turn the PDF to the cited page. _(prototype)_
 - **[vscode-pdf-viewer](https://github.com/anton-dergunov/vscode-pdf-viewer)**: Minimal PDF viewer for VS Code with highlights and links to a section or page, including from the Claude Code chat.
+- **[lectern](https://github.com/anton-dergunov/lectern)**: Read Jupyter notebooks and markdown on a tablet, a phone or an e-ink reader, and publish them as a website.
 - **[lightroom-bracket-stacker](https://github.com/anton-dergunov/lightroom-bracket-stacker)**: Plugin for Adobe Lightroom Classic that finds exposure-bracketed sequences and imports each one as a stack, ready for HDR merge.
 - **[The Vim Wilds](https://vim-wilds.pages.dev/)**: A mobile-first, offline-capable course for learning Vim through short exercises, with every taught command checked against native Vim.
 - **[harmonic](https://github.com/anton-dergunov/harmonic)**: A minimal distraction-free Spotify playback controller for macOS. Control your music from the menu bar — skip tracks, toggle likes, and view track info at a glance.
