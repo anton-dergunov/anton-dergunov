@@ -13,6 +13,7 @@ These are my own projects: research and ML first, then the tools I built and use
 ### Evaluation and post-training
 
 - **[llm-agent-eval-testbed](https://github.com/anton-dergunov/llm-agent-eval-testbed)**: Test bed for evaluating LLM agents: a support agent whose decisions are made by deterministic code, scored by checks, adversarial guardrails and a calibrated LLM judge.
+- **[agent-memory-eval](https://github.com/anton-dergunov/agent-memory-eval)**: How LLM agent memory systems actually work, traced call by call, and what that costs them on a real benchmark.
 - **[mandarin-speech-coach](https://github.com/anton-dergunov/mandarin-speech-coach)**: Mandarin pronunciation practice that shows the evidence instead of a score: your pitch contour against a target phrase, aligned per character (Whisper, wav2vec2 CTC alignment, F0 tracking). _(prototype)_
 
 ### Retrieval and ranking
@@ -43,7 +44,7 @@ _Preparing content so that an LLM agent can use it: extraction to clean Markdown
 - **[carrel](https://github.com/anton-dergunov/carrel)**: Read a paper on a tablet with Claude Code beside it: the PDF in one pane, a chat in the other, citations that turn the PDF to the cited page. _(prototype)_
 - **[vscode-pdf-viewer](https://github.com/anton-dergunov/vscode-pdf-viewer)**: Minimal PDF viewer for VS Code with highlights and links to a section or page, including from the Claude Code chat.
 - **[lightroom-bracket-stacker](https://github.com/anton-dergunov/lightroom-bracket-stacker)**: Plugin for Adobe Lightroom Classic that finds exposure-bracketed sequences and imports each one as a stack, ready for HDR merge.
-- **[vim-mastery](https://github.com/anton-dergunov/vim-mastery)**: A mobile-first, offline-capable course for learning Vim through short exercises, with every taught command checked against native Vim.
+- **[The Vim Wilds](https://vim-wilds.pages.dev/)**: A mobile-first, offline-capable course for learning Vim through short exercises, with every taught command checked against native Vim.
 - **[harmonic](https://github.com/anton-dergunov/harmonic)**: A minimal distraction-free Spotify playback controller for macOS. Control your music from the menu bar — skip tracks, toggle likes, and view track info at a glance.
 - **[calorie-logger](https://github.com/anton-dergunov/calorie-logger)**: A small, private calorie and macro logger you host yourself: few taps to log, and the day shown as a table.
 - **[workspace-backup](https://github.com/anton-dergunov/workspace-backup)**: Lightweight source-oriented backup system for research, ML, and software engineering workspaces built on top of restic, resticprofile, rclone and apprise.
