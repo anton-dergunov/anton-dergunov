@@ -26,7 +26,7 @@ _Preparing content so that an LLM agent can use it: extraction to clean Markdown
 
 - **[agentic-org-planner](https://github.com/anton-dergunov/agentic-org-planner)**: Org-mode planning system for Emacs with an LLM agent working on the plan: it adds, files and edits tasks in your own files, every change reviewed as a diff.
 - **[agent-context-pipeline](https://github.com/anton-dergunov/agent-context-pipeline)**: Capture from any device, extraction to clean Markdown (web pages, PDFs, OCR, speech), and retrieval of related notes, delivered as an inbox a coding agent can file.
-- **[agentic-paper-library](https://github.com/anton-dergunov/agentic-paper-library)**: Reading and organising a research-paper library with a coding agent: papers converted to Markdown the agent can read and cite, and skills for adding, reading and reviewing them.
+- **[agentic-paper-library](https://github.com/anton-dergunov/agentic-paper-library)**: Reading and organising a research-paper library with a coding agent: each paper kept as its PDF and its text, and skills for adding, reading and reviewing them.
 
 ### Applied LLM and speech systems
 
@@ -40,6 +40,7 @@ _Preparing content so that an LLM agent can use it: extraction to clean Markdown
 
 ## Tools I built and use
 
+- **[carrel](https://github.com/anton-dergunov/carrel)**: Read a paper on a tablet with Claude Code beside it: the PDF in one pane, a chat in the other, citations that turn the PDF to the cited page. _(prototype)_
 - **[vscode-pdf-viewer](https://github.com/anton-dergunov/vscode-pdf-viewer)**: Minimal PDF viewer for VS Code with highlights and links to a section or page, including from the Claude Code chat.
 - **[lightroom-bracket-stacker](https://github.com/anton-dergunov/lightroom-bracket-stacker)**: Plugin for Adobe Lightroom Classic that finds exposure-bracketed sequences and imports each one as a stack, ready for HDR merge.
 - **[vim-mastery](https://github.com/anton-dergunov/vim-mastery)**: A mobile-first, offline-capable course for learning Vim through short exercises, with every taught command checked against native Vim.
