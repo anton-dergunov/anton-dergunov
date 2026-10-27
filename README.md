@@ -13,7 +13,7 @@ These are my own projects: research and ML first, then the tools I built and use
 ### Evaluation and post-training
 
 - **[llm-agent-eval-testbed](https://github.com/anton-dergunov/llm-agent-eval-testbed)**: Test bed for evaluating LLM agents: a support agent whose decisions are made by deterministic code, scored by checks, adversarial guardrails and a calibrated LLM judge.
-- **[agent-memory-eval](https://github.com/anton-dergunov/agent-memory-eval)**: How LLM agent memory systems actually work, traced call by call, and what that costs them on a real benchmark.
+- **[agent-memory-eval](https://github.com/anton-dergunov/agent-memory-eval)**: How LLM agent memory systems actually work, traced call by call, and what that costs them on a real benchmark, LongMemEval.
 - **[mandarin-speech-coach](https://github.com/anton-dergunov/mandarin-speech-coach)**: Mandarin pronunciation practice that shows the evidence instead of a score: your pitch contour against a target phrase, aligned per character (Whisper, wav2vec2 CTC alignment, F0 tracking). _(prototype)_
 
 ### Retrieval and ranking
